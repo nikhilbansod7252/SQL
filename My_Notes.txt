@@ -1,0 +1,44 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> SQL - Structured query lang
+
+> SQL is lang by which we can communicate with DB(database)
+
+> SQL querys execute from backwords
+
+> How many - we are counting something
+
+> Table location in DB - Schemas > public > Tables
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> SELECT - statement which allows us to retrive inf^n from a table
+
+- Sx. SELECT column_name,.. FROM table_name
+- we can select multpl colm seperated by commas
+- If we want all colm we use *
+
+> SELECT DISTINCT - DISTINCT keyword is used to return only the distinct values in a column
+
+- Distinct keyword operated on column
+- Sx. SELECT DISTINCT column_name FROM table_name
+or
+- Sx. SELECT DISTINCT(column_name) FROM table_name
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+> Fun COUNT() 
+
+- count returns the number of rows
+- # We can apply count on aspecific column
+- or just pass count(*) it will retuen same as #
+- count won't work without parenthesis
+- count is more efficient with DISTINCT
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+> SELECT WHERE statement -
+
+-
+-
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
